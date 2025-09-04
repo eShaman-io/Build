@@ -9,15 +9,18 @@
     "dev": "tsc --watch"
   },
   "dependencies": {
+    "@shopify/react-native-skia": "^1.3.0",
+    "expo-linear-gradient": "~13.0.2",
+    "nativewind": "^2.0.11",
     "react": "^18.3.1",
     "react-native": "0.74.3",
+    "react-native-reanimated": "~3.10.1",
     "react-native-web": "^0.19.12",
-    "nativewind": "^2.0.11",
     "tailwindcss": "^3.4.9"
   },
   "devDependencies": {
-    "typescript": "^5.5.4",
-    "@types/react": "^18.3.3"
+    "@types/react": "^18.3.3",
+    "typescript": "^5.5.4"
   },
   "peerDependencies": {
     "react": "^18.3.1"
